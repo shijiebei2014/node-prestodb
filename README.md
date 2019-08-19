@@ -2,6 +2,7 @@
 
 A new wrapper around [Presto HTTP API](https://github.com/prestodb/presto/wiki/HTTP-Protocol) wrapper for Node.js.
 
+Keep consistent with the https://www.npmjs.com/package/prestodb(@0.2.0) and the https://github.com/lourenzo/node-prestodb(@0.2.0)
 ## Usage
 
 ```js
