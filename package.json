@@ -1,5 +1,5 @@
 {
-  "name": "prestodb",
+  "name": "prestodb-fix",
   "version": "0.2.0",
   "description": "fix the bug of prestodb@0.2.0",
   "main": "lib/index.js",
